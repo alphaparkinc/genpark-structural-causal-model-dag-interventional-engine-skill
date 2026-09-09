@@ -1,0 +1,15 @@
+{
+  "name": "genpark-structural-causal-model-dag-interventional-engine-skill",
+  "version": "1.0.0",
+  "description": "Structural Causal Model DAG engine with Pearl's do-calculus interventions.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "scm",
+    "causal-dag",
+    "do-calculus",
+    "intervention",
+    "agentic-ai"
+  ]
+}
